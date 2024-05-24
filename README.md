@@ -7,16 +7,16 @@ This analysis aims to evaluate the risk in lending decisions by forecasting whet
 
 The following are the key performance metrics for the logistic regression model used in this analysis:
 
--**Accuracy**:
+**Accuracy**:
   - Reflects how often the model correctly classifies loans.
   - Overall Accuracy: 99%
     
--**Precision**:
+**Precision**:
   - Indicates the proportion of true positive predictions among all positive predictions.
   - Healthy loans (0): 100%H
   - High-risk loans (1): 85%
 
--**Recall**: 
+**Recall**: 
   - Measures the proportion of true positive predictions among all actual positive cases.
   - Healthy loans (0): 100%
   - High-risk loans (1): 85%
