@@ -21,7 +21,7 @@ The following are the key performance metrics for the logistic regression model 
   - Healthy loans (0): 100%
   - High-risk loans (1): 85%
 
-## Summary and Recommendation**
+## Summary and Recommendation
 
 ### Summary of Results
 
